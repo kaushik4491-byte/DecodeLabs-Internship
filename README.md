@@ -1,15 +1,18 @@
 # 🤖 Chatbot Project
 
-This project is a simple chatbot built as part of my internship at Decode Labs.
-It can interact with users and respond based on predefined logic.
+⭐ Internship Project - Decode Labs
+
+This project is a simple chatbot built using Python as part of my internship at Decode Labs.
+The chatbot can interact with users and respond to basic queries using predefined logic.
 
 ---
 
 ## 🚀 Features
 
-* Interactive chatbot
-* Handles basic user queries
+* Interactive command-line chatbot
+* Handles basic user inputs
 * Simple and clean logic implementation
+* Easy to understand and modify
 
 ---
 
@@ -23,8 +26,9 @@ It can interact with users and respond based on predefined logic.
 ## 📂 Project Structure
 
 ```
-chatbot_project/
+DecodeLabs-Internship/
 │── chatbot.py
+│── output.png
 │── README.md
 ```
 
@@ -52,11 +56,17 @@ python chatbot.py
 
 ---
 
+## 📸 Example Output
+
+![Chatbot Screenshot](output.png)
+
+---
+
 ## 🔮 Future Improvements
 
-* Add GUI (Tkinter or Web UI)
-* Improve chatbot intelligence
-* Integrate APIs for better responses
+* Add GUI (Tkinter or Web Interface)
+* Improve chatbot intelligence using AI
+* Integrate APIs for real-time responses
 
 ---
 
