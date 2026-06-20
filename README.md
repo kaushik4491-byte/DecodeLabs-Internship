@@ -1,13 +1,13 @@
-# 🤖 Chatbot Project
+#  Chatbot Project
 
-⭐ Internship Project - Decode Labs
+Internship Project - Decode Labs
 
 This project is a simple chatbot built using Python as part of my internship at Decode Labs.
 The chatbot can interact with users and respond to basic queries using predefined logic.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Interactive command-line chatbot
 * Handles basic user inputs
@@ -16,14 +16,14 @@ The chatbot can interact with users and respond to basic queries using predefine
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Git & GitHub
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 DecodeLabs-Internship/
@@ -34,7 +34,7 @@ DecodeLabs-Internship/
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
 1. Clone the repository:
 
@@ -56,13 +56,13 @@ python chatbot.py
 
 ---
 
-## 📸 Example Output
+##  Example Output
 
 ![Chatbot Screenshot](output.png)
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add GUI (Tkinter or Web Interface)
 * Improve chatbot intelligence using AI
@@ -70,6 +70,6 @@ python chatbot.py
 
 ---
 
-## 👤 Author
+##  Author
 
 Rajat
